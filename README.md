@@ -6,5 +6,5 @@ The purpose of this project is to generate useful knowledge objects that will ex
 
 ### Contents
 
-[KO Writing Notebook](https://github.com/pvstewar/knowledge_object_writer/blob/main/KO_pipe_rev2.ipynb)
+[KO Writing Notebook](https://github.com/pvstewar/knowledge_object_writer/blob/main/KO_pipe_rev2.ipynb)<br>
 Example Knowledge Objects Created with the notebook code (.md files)
